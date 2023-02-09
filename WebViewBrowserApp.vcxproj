@@ -199,6 +199,7 @@
     <Image Include="WebViewBrowserApp.ico" />
   </ItemGroup>
   <ItemGroup>
+    <Manifest Include="dpi.manifest" />
     <None Include="packages.config" />
     <None Include="ui_bar.html" />
   </ItemGroup>
